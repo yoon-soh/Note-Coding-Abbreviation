@@ -1,0 +1,3 @@
+|Original|Abbreviation|
+|:---:|:---:|
+|Argument|Arg|
