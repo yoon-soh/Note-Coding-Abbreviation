@@ -4,3 +4,4 @@
 |Allocate|Alloc|
 |Command|Cmd|
 |Initialize|Init|
+|Repository|Repo|
