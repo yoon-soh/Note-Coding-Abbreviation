@@ -3,5 +3,7 @@
 |Argument|Arg|
 |Allocate|Alloc|
 |Command|Cmd|
+|Destionation|Dst|
 |Initialize|Init|
 |Repository|Repo|
+|Source|Src|
