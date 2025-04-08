@@ -5,5 +5,6 @@
 |Command|Cmd|
 |Destionation|Dst|
 |Initialize|Init|
+|Reference|Ref|
 |Repository|Repo|
 |Source|Src|
