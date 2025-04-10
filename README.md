@@ -4,6 +4,7 @@
 |Allocate|Alloc|
 |Command|Cmd|
 |Destionation|Dst|
+|Information|Info|
 |Initialize|Init|
 |Reference|Ref|
 |Repository|Repo|
