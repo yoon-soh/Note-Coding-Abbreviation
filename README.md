@@ -3,9 +3,10 @@
 |Argument|Arg|
 |Allocate|Alloc|
 |Command|Cmd|
-|Destionation|Dst|
+|Destination|Dst|
 |Information|Info|
 |Initialize|Init|
 |Reference|Ref|
 |Repository|Repo|
+|Resource|Rsrc|
 |Source|Src|
