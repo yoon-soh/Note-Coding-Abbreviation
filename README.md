@@ -2,11 +2,13 @@
 |:---:|:---:|
 |[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)|
 |[Allocate](https://www.abbreviations.com/abbreviation/allocate)|[Alloc](https://www.abbreviations.com/ALLOC)|
+|[Character](https://www.abbreviations.com/abbreviation/character)|[Char](https://www.abbreviations.com/CHAR)|
 |[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)|
 |[Information](https://www.abbreviations.com/abbreviation/information)|[Info](https://www.abbreviations.com/INFO)|
 |[Initialize](https://www.abbreviations.com/abbreviation/initialize)|[Init](https://www.abbreviations.com/INIT)|
 |[Parameter](https://www.abbreviations.com/abbreviation/parameter)|[Param](https://www.abbreviations.com/PARAM)|
+|[Previous](https://www.abbreviations.com/abbreviation/previous)|[Prev](https://www.abbreviations.com/PREV)|
 |[Reference](https://www.abbreviations.com/abbreviation/reference)|[Ref](https://www.abbreviations.com/REF)|
 |[Repository](https://www.abbreviations.com/abbreviation/repository)|[Repo](https://www.abbreviations.com/REPO)|
 |[Resource](https://www.abbreviations.com/abbreviation/resource)|[Rsrc](https://www.abbreviations.com/RSRC)|
