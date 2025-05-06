@@ -13,3 +13,4 @@
 |[Repository](https://www.abbreviations.com/abbreviation/repository)|[Repo](https://www.abbreviations.com/REPO)|
 |[Resource](https://www.abbreviations.com/abbreviation/resource)|[Rsrc](https://www.abbreviations.com/RSRC)|
 |[Source](https://www.abbreviations.com/abbreviation/Source)|[Src](https://www.abbreviations.com/serp.php?st=SRC&p=5)|
+|[Utility](https://www.abbreviations.com/abbreviation/utilities)|[Util](https://www.abbreviations.com/UTIL)|
