@@ -1,7 +1,8 @@
 |Original|Abbreviation|
 |:---:|:---:|
-|[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)|
 |[Allocate](https://www.abbreviations.com/abbreviation/allocate)|[Alloc](https://www.abbreviations.com/ALLOC)|
+|[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)|
+|[Attribute](https://www.abbreviations.com/abbreviation/Attribute)|[Attr](https://www.abbreviations.com/ATTR)|
 |[Character](https://www.abbreviations.com/abbreviation/character)|[Char](https://www.abbreviations.com/CHAR)|
 |[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)|
