@@ -1,5 +1,6 @@
 |Original|Abbreviation|
 |:---:|:---:|
+|[Absolute](https://www.abbreviations.com/abbreviation/Absolute)|[Abs](https://www.abbreviations.com/ABS)|
 |[Allocate](https://www.abbreviations.com/abbreviation/allocate)|[Alloc](https://www.abbreviations.com/ALLOC)|
 |[Argument](https://www.abbreviations.com/abbreviation/argument)|[Arg](https://www.abbreviations.com/serp.php?st=ARG&p=2)|
 |[Attribute](https://www.abbreviations.com/abbreviation/Attribute)|[Attr](https://www.abbreviations.com/ATTR)|
