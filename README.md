@@ -9,6 +9,7 @@
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)|
 |[Information](https://www.abbreviations.com/abbreviation/information)|[Info](https://www.abbreviations.com/INFO)|
 |[Initialize](https://www.abbreviations.com/abbreviation/initialize)|[Init](https://www.abbreviations.com/INIT)|
+|[Library](https://www.abbreviations.com/abbreviation/Library)|[Lib](https://www.abbreviations.com/LIB)|
 |[Parameter](https://www.abbreviations.com/abbreviation/parameter)|[Param](https://www.abbreviations.com/PARAM)|
 |[Previous](https://www.abbreviations.com/abbreviation/previous)|[Prev](https://www.abbreviations.com/PREV)|
 |[Reference](https://www.abbreviations.com/abbreviation/reference)|[Ref](https://www.abbreviations.com/REF)|
