@@ -7,6 +7,7 @@
 |[Character](https://www.abbreviations.com/abbreviation/character)|[Char](https://www.abbreviations.com/CHAR)|
 |[Command](https://www.abbreviations.com/abbreviation/Command)|[Cmd](https://www.abbreviations.com/CMD)|
 |[Destination](https://www.abbreviations.com/abbreviation/destination)|[Dst](https://www.abbreviations.com/serp.php?st=DST&p=2)|
+|[Infinity](https://www.abbreviations.com/abbreviation/Infinity)|[Inf](https://www.abbreviations.com/INF)|
 |[Information](https://www.abbreviations.com/abbreviation/information)|[Info](https://www.abbreviations.com/INFO)|
 |[Initialize](https://www.abbreviations.com/abbreviation/initialize)|[Init](https://www.abbreviations.com/INIT)|
 |[Library](https://www.abbreviations.com/abbreviation/Library)|[Lib](https://www.abbreviations.com/LIB)|
